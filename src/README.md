@@ -1,0 +1,1 @@
+Kode program menggunakan metode secant, yang dibuat dengan kode program bahasa java, memiliki nilai nilai yang sudah di deklarasikan memang dari program, misal double dan nilai nilai yang bisa di deklarasikan langsung, soal akan langsung mengghitung, dan langsung mengeluarkan hasil sesuai soal yang ada
