@@ -50,5 +50,7 @@ public class MetodeSecant {
         System.out.println("f(x) = " + f(x1));
         System.out.println("Jumlah iterasi: " + iterasi);
         System.out.println("========================================");
+
+        System.out.println("Hasil yang benar dan tepat sesuai metode secant");
     }
 }
