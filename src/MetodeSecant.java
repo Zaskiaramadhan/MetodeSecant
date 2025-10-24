@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class MetodeSecant {
     
     // Fungsi f(x) = x^3 - 2x - 5
@@ -52,5 +54,6 @@ public class MetodeSecant {
         System.out.println("========================================");
 
         System.out.println("Hasil yang benar dan tepat sesuai metode secant");
+        System.out.println("hasil yang di hasilkan sesuai");
     }
 }
